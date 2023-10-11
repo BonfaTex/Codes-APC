@@ -220,9 +220,9 @@ int check_regions_C (const unsigned sudoku[][SIZE])
 {
     auto start = std::chrono::steady_clock::now();
 
-    for (size_t i=0; i<SIZE-3; i=i+3)
+    for (size_t i=0; i<=SIZE-3; i=i+3)
     {
-        for (size_t j=0; j<SIZE-3; j=j+3)
+        for (size_t j=0; j<=SIZE-3; j=j+3)
         {
             unsigned v[SIZE];
             size_t k=0;
