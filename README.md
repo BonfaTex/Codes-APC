@@ -1,6 +1,6 @@
 # 👨🏻‍💻 Codes_APC 
 
-Here you can find my C++[^1] codes for the course Algorithms and Parallel Computing (Professor Ardagna, academic year 2023/24) of the Master Degree in Mathematical Engineering.
+Here you can find my C++ [^1] codes for the course Algorithms and Parallel Computing (Professor Ardagna, academic year 2023/24) of the Master Degree in Mathematical Engineering.
 
 [^1]: Notice that the last assignment and the last lab are supposed to be executed on MPI.
 
