@@ -1,4 +1,4 @@
-# Codes_APC 👨🏻‍💻
+# 👨🏻‍💻 Codes_APC 
 
 Here you can find my C++ codes for the course Algorithms and Parallel Computing (Professor Ardagna, academic year 2023/24) of the Master Degree in Mathematical Engineering.
 
